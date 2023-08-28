@@ -2,6 +2,8 @@
 
 # **👤 Rad <br/>(@Unknown-60)**
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnknown-60%2Fhit-counter&count_bg=%23FF001B&title_bg=%23272727&icon=codeigniter.svg&icon_color=%23FF9700&title=VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Desconectado de un mundo interconectado.
 
 ![](https://img.shields.io/badge/OS-SlackWare-informational?style=flat&logo=linux&logoColor=lightorange&color=5f7d88)
